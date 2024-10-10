@@ -2,6 +2,7 @@
 
 - 📃 Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas 
 - 💻 Estudando web development
+- 🧥 Atualmente trabalhando como Vendedor na Afya 
 - 📫 Para contato marcelofaffe@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -20,7 +21,7 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A4A4A4color:FFF)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A4A4A4color:FFF)](https://www.linkedin.com/in/marcelo-faffe-04b788311/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/marcelo.faffe/)
 
   ##
