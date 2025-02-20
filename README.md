@@ -2,7 +2,7 @@
 
 - 📃 Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas 
 - 💻 Estudando web development
-- 🧥 Atualmente trabalhando como Vendedor na Afya 
+- 🧥 Atualmente trabalhando na área de tecnologia da informação do Detro.
 - 📫 Para contato marcelofaffe@gmail.com
 - 😄 Pronouns: ele/dele
 
